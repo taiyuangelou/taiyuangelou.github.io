@@ -1,5 +1,10 @@
 # 个人学术主页（中英文双语 · 纯静态）
 
+当前主页：https://taiyuangelou.github.io/
+发布仓库：https://github.com/taiyuangelou/taiyuangelou.github.io
+原账号 yogurt-lt 与 Skills 地址 https://yogurt-lt.github.io/optomech-workflow/ 保持不变。
+
+
 ## 更新与发布（2026-10-26）
 
 中文 `index.html` 和英文 `en.html` 均包含完整静态正文，不需要执行 JavaScript 才能读取。
